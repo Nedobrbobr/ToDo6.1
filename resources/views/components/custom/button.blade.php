@@ -1,0 +1,1 @@
+<button type=submit class="flex items-center justify-center w-36 h-14 bg-cyan-300 border-2 border-green-500 rounded-full shadow-md hover:bg-cyan-200 hover:border-green-400 hover:font-bold hover:shadow-lg active:shadow-none">{{ $slot }}</button>
